@@ -4,7 +4,7 @@ print("hello world")
 print("i am tisha")
 print("i am using python file")
 
-# practice
+# practice :
 
 num1 = int(input("enter your value :"))
 num2 = int(input("enter your sec value :"))
